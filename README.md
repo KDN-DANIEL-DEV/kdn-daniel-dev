@@ -1,6 +1,6 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/kdn-daniel-dev">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel-dev.kdn-daniel-dev&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<a style="text-decoration: none" target="_blank"href="https://github.com/kdn-daniel">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel.kdn-daniel&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
 <a style="text-decoration: none" target="_blank" href="[https://twitter.com/codediazsergio](https://www.instagram.com/kdn_daniel_/)" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
@@ -19,7 +19,7 @@ With a strong foundation in backend development and process automation, I have h
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kdn-daniel-dev/kdn-daniel-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kdn-daniel/kdn-daniel/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
@@ -76,7 +76,7 @@ With a strong foundation in backend development and process automation, I have h
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdn-daniel-dev#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdn-daniel#version3"/>
   </a>
 </p>
 
@@ -84,14 +84,14 @@ With a strong foundation in backend development and process automation, I have h
 
 <div align="center">
 <a href="https://github.com/kdn-daniel-diaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn-daniel-dev&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn-daniel&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 
 <br>
 
 ------
-**Credits :** [kdn-daniel-dev](https://github.com/kdn-daniel-dev)
+**Credits :** [kdn-daniel](https://github.com/kdn-daniel)
 
-**Last Edited on:** 06/04/2024
+**Last Edited on:** 11/09/2024
