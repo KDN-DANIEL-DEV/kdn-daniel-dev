@@ -96,7 +96,7 @@ With a strong foundation in backend development and process automation, I have h
 <div align="center">
 <a href="https://github.com/kdn-daniel-diaz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn-daniel&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https:/stats.danieldiaz.dev/api/top-langs/?username=kdn-daniel&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 
