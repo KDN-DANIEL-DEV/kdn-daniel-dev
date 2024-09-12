@@ -1,12 +1,12 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/kdn-daniel">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel.kdn-daniel&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel.kdn-daniel&left_color=gray&right_color=green&left_text=Coders%20visitors">
 </a>
 <a style="text-decoration: none" target="_blank" href="[https://twitter.com/codediazsergio](https://www.instagram.com/kdn_daniel_/)" >
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kdn-daniel/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+<img width="70"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
 
