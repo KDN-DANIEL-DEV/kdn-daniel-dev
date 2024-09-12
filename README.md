@@ -84,20 +84,18 @@ With a strong foundation in backend development and process automation, I have h
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdn-daniel#version3"/>
-  </a>
-</p>
-
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
 <a href="https://github.com/kdn-daniel-diaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https:/stats.danieldiaz.dev/api/top-langs/?username=kdn-daniel&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+
 </div>
+
+<h2>🔥| My contribution streak</h2>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdn-daniel&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=190&background=FFFFFF&fire=3EB62B" alt="GitHub Streak" /></a>
+</p>
 
 
 <br>
