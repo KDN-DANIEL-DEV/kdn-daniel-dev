@@ -13,6 +13,9 @@
 <img width="80" alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=green&logo=gmail&logoColor=FFFFFF&label=" />
 </a>
 
+<a style="text-decoration: none" target="_blank" href="https://danieldiaz.dev" >
+<img width="110" alt="portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=portfolio&color=green&logo=dailydotdev&logoColor=FFFFFF&label=" />
+</a>
  
 </div>
 
