@@ -1,18 +1,24 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/kdn-daniel">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel.kdn-daniel&left_color=gray&right_color=green&left_text=Coders%20visitors">
+<img width="150" src="https://visitor-badge.laobi.icu/badge?page_id=kdn-daniel.kdn-daniel&left_color=gray&right_color=green&left_text=Coders%20visitors">
 </a>
 <a style="text-decoration: none" target="_blank" href="[https://twitter.com/codediazsergio](https://www.instagram.com/kdn_daniel_/)" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
+<img width="80"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kdn-daniel/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
+<img width="90"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
 </a>
+
+<a style="text-decoration: none" target="_blank" href="mailto:contact@danieldiaz.dev?subject=Hi%Daniel!" >
+<img width="80" alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=green&logo=gmail&logoColor=FFFFFF&label=" />
+</a>
+
+ 
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Daniel+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=50=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Daniel+Díaz!;" />
 
 <h2>📖 | About me</h2> 
 With a strong foundation in backend development and process automation, I have honed my skills over the years by building scalable APIs, integrating cloud services, and optimizing workflows for various industries. My technical proficiency, combined with a focus on efficiency, enables me to create robust solutions that improve operational performance. I thrive in dynamic environments that embrace innovation and growth, always seeking to push the boundaries of technology to deliver impactful results.
