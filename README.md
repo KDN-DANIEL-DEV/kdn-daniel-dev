@@ -87,10 +87,11 @@ With a strong foundation in backend development and process automation, I have h
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/kdn-daniel-diaz">
+<a href="https://github.com/kdn-daniel">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kdn-daniel&theme=vue&line_height=60&hide=css"/> </a>
+<a href="https://github.com/kdn-daniel"> 
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kdn-daniel&theme=vue&line_height=60&hide=css"/> </a>
 </div>
 
 <h2>🔥| My contribution streak</h2>
