@@ -59,7 +59,7 @@ With a strong foundation in backend development and process automation, I have h
   <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,nodejs,java,anaconda,opencv,php,laravel"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,nodejs,java,net,opencv,php,laravel,c"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
